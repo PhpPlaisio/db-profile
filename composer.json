@@ -1,0 +1,9 @@
+{
+  "name": "setbased/abc-profile",
+  "description": "ABC-Framework: Profile",
+  "keywords": [
+    "ABC-Framework"
+  ],
+  "type": "library",
+  "license": "MIT"
+}

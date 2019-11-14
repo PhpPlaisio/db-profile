@@ -1,9 +1,8 @@
 {
-  "name": "setbased/abc-profile",
-  "description": "ABC-Framework: Profile",
+  "name": "plaisio/profile",
+  "description": "PhpPlaisio: Profile",
   "keywords": [
-    "ABC-Framework"
+    "PhpPlaisio"
   ],
-  "type": "library",
   "license": "MIT"
 }

@@ -1,4 +1,4 @@
-# ABC-Framework: Profile
+# PhpPlaisio: Profile
 
 <table>
 <thead>
@@ -11,18 +11,19 @@
 <tbody>
 <tr>
 <td>
-<a href="https://gitter.im/SetBased/php-abc?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge"><img src="https://badges.gitter.im/SetBased/php-abc.svg" alt="Gitter"/></a>
+<a href="https://gitter.im/PhpPlaisio/PhpPlaisio"><img src="https://badges.gitter.im/PhpPlaisio/PhpPlaisio.svg" alt="Gitter"/></a>
 </td>
 <td>
-<a href="https://packagist.org/packages/setbased/abc-profile"><img src="https://poser.pugx.org/setbased/abc-profile/license" alt="License"/></a>
+<a href="https://packagist.org/packages/plaisio/profile"><img src="https://poser.pugx.org/plaisio/profile/license" alt="License"/></a>
 </td>
 <td>
-<a href="https://packagist.org/packages/setbased/abc-profile"><img src="https://poser.pugx.org/setbased/abc-profile/v/stable" alt="Latest Stable Version"/></a>
+<a href="https://packagist.org/packages/plaisio/profile"><img src="https://poser.pugx.org/plaisio/profile/v/stable" alt="Latest Stable Version"/></a>
 </td>
 </tr>
 </tbody>
 </table>
 
+Provides the SQL scripts for the profile table.
 
 #  License
 

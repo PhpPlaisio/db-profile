@@ -14,10 +14,10 @@
 <a href="https://gitter.im/PhpPlaisio/PhpPlaisio"><img src="https://badges.gitter.im/PhpPlaisio/PhpPlaisio.svg" alt="Gitter"/></a>
 </td>
 <td>
-<a href="https://packagist.org/packages/plaisio/profile"><img src="https://poser.pugx.org/plaisio/profile/license" alt="License"/></a>
+<a href="https://packagist.org/packages/plaisio/db-profile"><img src="https://poser.pugx.org/plaisio/db-profile/license" alt="License"/></a>
 </td>
 <td>
-<a href="https://packagist.org/packages/plaisio/profile"><img src="https://poser.pugx.org/plaisio/profile/v/stable" alt="Latest Stable Version"/></a>
+<a href="https://packagist.org/packages/plaisio/db-profile"><img src="https://poser.pugx.org/plaisio/db-profile/v/stable" alt="Latest Stable Version"/></a>
 </td>
 </tr>
 </tbody>

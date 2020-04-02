@@ -4,5 +4,8 @@
   "keywords": [
     "PhpPlaisio"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "require": {
+    "php": ">=7.3"
+  }
 }

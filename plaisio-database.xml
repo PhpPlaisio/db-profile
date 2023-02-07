@@ -1,13 +1,11 @@
-<plaisio>
-    <database>
-        <provides>
-            <table>ABC_AUTH_PROFILE</table>
-        </provides>
-        <requires>
-            <table>ABC_AUTH_COMPANY</table>
-        </requires>
-        <scripts>
-            <script>lib/ddl/0100_create_tables.sql</script>
-        </scripts>
-    </database>
-</plaisio>
+<database>
+    <provides>
+        <table>ABC_AUTH_PROFILE</table>
+    </provides>
+    <requires>
+        <table>ABC_AUTH_COMPANY</table>
+    </requires>
+    <scripts>
+        <script>lib/ddl/0100_create_tables.sql</script>
+    </scripts>
+</database>
